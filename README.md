@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-##About Me
+# About Me
 I'm currently working on a healthcare startup, making use of LiDar measurements to fit bodies to current medical appendages.
 
 I'm currently learning tensorflow.js
