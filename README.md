@@ -17,6 +17,6 @@ I'm currently working on: a healthcare startup, making use of LiDar measurements
 
 I'm currently learning: tensorflow.js
 
-Pronouse: He/Him
+Pronouns: He/Him
 
 Fun fact: My stomach doesn't handle coffee very well...
