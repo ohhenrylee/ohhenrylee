@@ -13,10 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # About Me
-I'm currently working on: a digital fitting solution for matching bras to breasts and a custom voice assistant for home automation.
+**I'm currently working on:** a digital fitting solution for matching bras to breasts and a custom voice assistant for home automation.
 
-I'm currently learning: tensorflow.js
+**I'm currently learning:** tensorflow.js
 
-Pronouns: He/Him
+**Pronouns:** He/Him
 
-Fun fact: My stomach doesn't handle coffee very well...
+**Fun fact:** My stomach doesn't handle coffee very well...
