@@ -13,9 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # About Me
-I'm currently working on: a healthcare startup, making use of LiDar measurements to fit bodies to current medical appendages.
+I'm currently working on:
+  (1) a digital fitting solution for matching bras to breasts
+  (2) a custom voice assistant for home automation
 
-I'm currently learning: tensorflow.js
+I'm currently learning:
+  (1) tensorflow.js
 
 Pronouns: He/Him
 
